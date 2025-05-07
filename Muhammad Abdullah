@@ -1,2 +1,4 @@
 Console.WriteLine("Muhammad Abdullah");
 Console.WriteLine("Software Department");
+Console.WriteLine("List of Subjects");
+
